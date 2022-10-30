@@ -2,5 +2,7 @@
 from tkinter import * #importing all the files from the tkinter module
 from tkinter import ttk#importing  tkk from tkinter
 import os
-def scanner():
+def adware():
+  pass
+def spyware():
   pass
